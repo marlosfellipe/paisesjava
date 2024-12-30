@@ -1,0 +1,30 @@
+[
+  {
+    "name": {
+      "common": "Brazil",
+      "official": "Federative Republic of Brazil"
+    },
+    "region": "Americas",
+    "population": 212559409,
+    "capital": [
+      "Brasília"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/br.png"
+    }
+  },
+  {
+    "name": {
+      "common": "France",
+      "official": "French Republic"
+    },
+    "region": "Europe",
+    "population": 67391582,
+    "capital": [
+      "Paris"
+    ],
+    "flags": {
+      "png": "https://flagcdn.com/w320/fr.png"
+    }
+  }
+]
